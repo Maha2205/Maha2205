@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Mahalakshmi R, an Information Technology graduate from Easwari Engineering College with a strong interest in data analytics and intelligent systems. I have hands-on experience in Python, SQL, and data analysis, and I enjoy working on real-world problems using data-driven approaches.<br><br>I have developed projects such as Exploratory Data Analysis of cab booking data using Pandas, NumPy, and Matplotlib, and a Privacy-Preserving Digital KYC Verification System leveraging Transformer-based models, Retrieval-Augmented Generation (RAG), Homomorphic Encryption, and blockchain for secure and scalable solutions.<br><br>My technical skill set includes Python, SQL, Java (OOP basics), and HTML, along with experience in data visualization, statistical analysis, and building secure, privacy-focused applications.<br><br>I am passionate about learning new technologies, improving problem-solving skills, and building impactful software solutions.
 
 
